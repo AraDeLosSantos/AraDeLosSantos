@@ -1,16 +1,14 @@
-## Hi there 👋
+👋 Hola, soy Araceli
 
-<!--
-**AraDeLosSantos/AraDeLosSantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Data Analyst en formación  
+💻 Python | SQL | Pandas | SQLite  
+📊 Enfocada en análisis de datos y proyectos reales  
 
-Here are some ideas to get you started:
+🚀 Proyectos destacados
+- ba-urban-works-data-analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Contacto
+- Email: arayemma06@gmail.com
+- LinkedIn: www.linkedin.com/in/aracelidelossantos
+
+
